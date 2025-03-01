@@ -4,9 +4,9 @@ This repository contains auto-generated reports that track changes to the Micros
 
 ## Latest Report
 
-**Latest report:** [LATEST_REPORT_DATE](./latest/)
+**Latest report:** [2025-03-01_073750](./latest/)
 
-*Last updated: LAST_UPDATED_DATE*
+*Last updated: 2025-03-01 10:12:28 UTC*
 
 ## Repository Structure
 
