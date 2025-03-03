@@ -4,17 +4,17 @@ This repository contains auto-generated reports that track changes to the Micros
 
 ## Latest Report
 
-**Latest report:** [2025-03-03_173734](./latest/)
+**Latest report:** [2025-03-03_180235](./latest/)
 
 <!-- SUMMARY_PLACEHOLDER -->
 
 # Microsoft Graph API Change Report
 
 ## Summary Report Graph SDK Changes
-Generated on 2025-03-03 17:37:35
+Generated on 2025-03-03 18:02:36
 
 ### Overall Statistics
-- **Total Cmdlets**: 0
+- **Total Cmdlets**: 24265
 - **Total Endpoints**: 21138
 - **Total Scopes**: 351
 - **Total Cmdlet Changes**: 24265
@@ -24,11 +24,11 @@ Generated on 2025-03-03 17:37:35
 ### Detailed Statistics by Version
 
 #### v1.0
-- Cmdlet Changes: Added: 0, Removed: 9144, Modified: 0
+- Cmdlet Changes: Added: 9144, Removed: 0, Modified: 0
 - Endpoint Changes: Added: 0, Removed: 0, Modified: 0
 
 #### beta
-- Cmdlet Changes: Added: 0, Removed: 15121, Modified: 0
+- Cmdlet Changes: Added: 15121, Removed: 0, Modified: 0
 - Endpoint Changes: Added: 0, Removed: 0, Modified: 0
 
 #### scopes
